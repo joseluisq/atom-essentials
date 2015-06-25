@@ -3,7 +3,7 @@
 
 > Some essential packages for [Atom hackable text editor](https://atom.io/)
 
-## Packages list
+## Package list
 
 * [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify HTML (including Handlebars), CSS (including Sass and LESS), JavaScript, and much more in Atom.
 * [atom-polymer](https://atom.io/packages/atom-polymer) - Develop for Polymer 1.0+ faster with Atom.
