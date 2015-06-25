@@ -20,5 +20,6 @@
 * [linter-tidy](https://atom.io/packages/linter-tidy) - Linter plugin for HTML, using tidy.
 * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
 * [minimap-highlight-selected](https://atom.io/packages/minimap-highlight-selected) - A minimap binding for the highlight-selected package.
+* [editorconfig](https://atom.io/packages/editorconfig) - Helps developers maintain consistent coding styles between different editors.
 
 **For more packages visit [Atom packages site](https://atom.io/packages).**
