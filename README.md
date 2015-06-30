@@ -21,5 +21,12 @@
 * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
 * [minimap-highlight-selected](https://atom.io/packages/minimap-highlight-selected) - A minimap binding for the highlight-selected package.
 * [editorconfig](https://atom.io/packages/editorconfig) - Helps developers maintain consistent coding styles between different editors.
+* [atom-ternjs](https://atom.io/packages/atom-ternjs) - Javascript code intelligence for atom with tern.js. Uses suggestion provider by autocomplete-plus.
+* [pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
+* [tool-bar](https://atom.io/packages/tool-bar) - Package providing customisable tool bar.
+* [tool-bar-main](https://atom.io/packages/tool-bar-main) - Main [tool bar](https://atom.io/packages/tool-bar).
+* [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping.
+* [color-picker](https://atom.io/packages/color-picker) - Right click or press CMD-SHIFT-C/CTRL-ALT-C to open it.
+* [merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom.
 
 **For more packages visit [Atom packages site](https://atom.io/packages).**
