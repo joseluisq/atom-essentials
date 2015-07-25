@@ -27,5 +27,6 @@
 * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping.
 * [color-picker](https://atom.io/packages/color-picker) - Right click or press CMD-SHIFT-C/CTRL-ALT-C to open it.
 * [merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom.
+* [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Adds path autocompletion to [autocomplete+](https://atom.io/packages/autocomplete-plus).
 
 **For more packages visit [Atom packages site](https://atom.io/packages).**
