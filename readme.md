@@ -16,7 +16,7 @@
 * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Adds path autocompletion to [autocomplete+](https://atom.io/packages/autocomplete-plus).
 
 
-# Install
+## Install
 Once that Atom has been installed, run the [install script](./install.sh):
 
 cURL:
