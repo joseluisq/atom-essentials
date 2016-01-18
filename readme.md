@@ -1,6 +1,6 @@
 # Atom Essentials
 
-> Some essential packages for [Atom hackable text editor.](https://atom.io/)
+> Some essential packages for [Atom](https://atom.io/).
 
 ## Packages
 
@@ -15,7 +15,22 @@
 * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping.
 * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Adds path autocompletion to [autocomplete+](https://atom.io/packages/autocomplete-plus).
 
-View **[Atom packages site](https://atom.io/packages)** for more packages.
+
+# Install
+Once that Atom has been installed, run the [install script](./install.sh):
+
+cURL:
+```sh
+$ curl -o- https://raw.githubusercontent.com/joseluisq/atom-essentials/master/install.sh
+```
+
+or Wget:
+
+```sh
+$ wget -qO- https://raw.githubusercontent.com/joseluisq/atom-essentials/master/install.sh
+```
+
+View [Atom packages site](https://atom.io/packages) for more packages.
 
 ## License
 
