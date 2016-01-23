@@ -21,13 +21,13 @@ Once that Atom has been installed, run the [install script](./install.sh):
 
 cURL:
 ```sh
-$ curl -o- https://raw.githubusercontent.com/joseluisq/atom-essentials/master/install.sh
+$ curl -o- https://raw.githubusercontent.com/joseluisq/atom-essentials/master/install.sh | bash
 ```
 
 or Wget:
 
 ```sh
-$ wget -qO- https://raw.githubusercontent.com/joseluisq/atom-essentials/master/install.sh
+$ wget -qO- https://raw.githubusercontent.com/joseluisq/atom-essentials/master/install.sh | bash
 ```
 
 View [Atom packages site](https://atom.io/packages) for more packages.
