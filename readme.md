@@ -1,4 +1,4 @@
-# Atom Essentials
+# Atom Essentials Packages
 
 > Some essential packages for [Atom](https://atom.io/).
 
@@ -14,6 +14,7 @@
 * [pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
 * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping.
 * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Adds path autocompletion to [autocomplete+](https://atom.io/packages/autocomplete-plus).
+* [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
 
 
 ## Install
