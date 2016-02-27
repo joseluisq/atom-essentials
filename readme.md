@@ -15,7 +15,9 @@
 * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping.
 * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Adds path autocompletion to [autocomplete+](https://atom.io/packages/autocomplete-plus).
 * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
-
+* [icon-fonts](https://atom.io/packages/icon-fonts) - Atom snippets for a variety of icon fonts (font-awesome, glyphicon, etc)
+* [atom-bootstrap4](https://atom.io/packages/atom-bootstrap4) - Bootstrap4 Support with snippets and autocompletion.
+* [language-fish-shell](https://atom.io/packages/language-fish-shell) - Snippets and syntax highlighting for Fish, the friendly interactive shell.
 
 ## Install
 Once that Atom has been installed, run the [install script](./install.sh):
