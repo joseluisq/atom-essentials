@@ -1,6 +1,6 @@
 # Atom Essentials Packages
 
-> Some essential packages for [Atom](https://atom.io/).
+> Some essential packages for more friendly development in [Atom](https://atom.io/).
 
 ## Packages
 
