@@ -5,12 +5,12 @@
 ## Packages
 Includes Javascript (ES6), PHP, Fish Shell, Laravel Blade, ReactJS, VueJS and some fancy packages.
 
-Feel free to customize [the "install package" script](././install.sh).
+Feel free to customize [the "install packages" script](././install.sh).
 
 ```sh
 ~> apm ls -p
 
-Community Packages (32) /home/joseluis/.atom/packages
+Community Packages (22) /home/joseluis/.atom/packages
 ├── atom-autocomplete-php
 ├── atom-ternjs
 ├── autocomplete-paths
