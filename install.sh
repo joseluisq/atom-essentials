@@ -1,35 +1,27 @@
 #!/bin/bash
 
+# Some Atom packages for Javascript (ES6), PHP, Fish Shell, Laravel Blade ReactJS and VueJS.
+
 apm install \
+atom-autocomplete-php \
 atom-handlebars \
 atom-ternjs \
-autocomplete-go \
 autocomplete-paths \
-autocomplete-php \
-builder-go \
 docblockr \
 editorconfig \
 emmet \
-environment \
 file-icons \
-go-config \
-go-debug \
-go-get \
-go-plus \
-godoc \
-gofmt \
-gometalinter-linter \
-gorename \
-language-babel \
+language-blade \
 language-fish-shell \
-language-varnish \
+language-vue \
 linter \
 linter-js-standard \
 linter-php \
 linter-sass-lint \
+local-history \
 minimap \
-navigator-go \
 php-cs-fixer \
 pigments \
+react \
 standard-formatter \
-tester-go
+vue-autocomplete
